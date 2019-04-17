@@ -74,5 +74,22 @@ div#tableRow {
   width: 20%;
   padding: 15px;
   vertical-align: top;
+}
 
+#picture{
+  display: inline-block;
+  background-image: url("images/header.gif");
+  width: 400px;
+  height: 108px;
+  
+
+}
+
+#image{
+  float: right;
+  display: inline-block;
+  background-image: url("images/header.gif");
+  background-position: -400px 108px;
+  width: 400px;
+  height: 108px;
 }
