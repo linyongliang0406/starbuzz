@@ -15,7 +15,7 @@ body {
   display: table-cell;
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
-  padding:          15px;
+  padding:          17px;
   vertical-align: top;
 }
 
@@ -91,12 +91,12 @@ div#tableRow {
   background-image: url("images/header.gif");
   background-position: -400px 108px;
   width: 400px;
-  height: 108px;
+  height: 110px;
 }
 
 #award{
   position: absolute;
-  top:30px;
+  top:35px;
   left: 420px;
 }
 
